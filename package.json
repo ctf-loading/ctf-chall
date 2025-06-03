@@ -1,6 +1,6 @@
 {
-  "name": "ctf_chall",
-  "homepage": "https://ctf-loading.github.io/ctf_chall",
+  "name": "web-chall",
+  "homepage": "https://ctf-loading.github.io/ctf-chall",
   "private": true,
   "version": "0.0.0",
   "type": "module",
